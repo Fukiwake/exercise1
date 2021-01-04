@@ -29,7 +29,7 @@ main {
   margin-right: 0;
 }
 
-.content span{
+.content span {
   background-color: #ff9a4b;
   color: white;
   padding: 3px;
@@ -74,7 +74,7 @@ footer {
     width: 90%;
     margin: 20px auto;
   }
-  
+
   .content:last-child {
     margin: 0 auto;
   }
